@@ -1,0 +1,8 @@
+#pragma once
+
+enum class Tile {
+	TILE_WIDTH = 128,
+	TILE_WIDTH_HALF = TILE_WIDTH / 2,
+	TILE_HEIGHT = 64,
+	TILE_HEIGHT_HALF = TILE_HEIGHT / 2
+};
